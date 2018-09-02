@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbedIOTestProject", "Embed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbedIOTestProjectConsole", "EmbedIOTestProjectConsole\EmbedIOTestProjectConsole.csproj", "{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbedIOTestProjectConsoleCore", "EmbedIOTestProjectConsoleCore\EmbedIOTestProjectConsoleCore.csproj", "{A1ACCE59-B4BD-43DF-BF6E-FC09E761BC44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1ACCE59-B4BD-43DF-BF6E-FC09E761BC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ACCE59-B4BD-43DF-BF6E-FC09E761BC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ACCE59-B4BD-43DF-BF6E-FC09E761BC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ACCE59-B4BD-43DF-BF6E-FC09E761BC44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
