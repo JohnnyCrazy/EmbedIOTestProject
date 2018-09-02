@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbedIOTestProject", "EmbedIOTestProject\EmbedIOTestProject.csproj", "{9D441E0C-1713-4AB6-ADA3-20E24F827CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbedIOTestProjectConsole", "EmbedIOTestProjectConsole\EmbedIOTestProjectConsole.csproj", "{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D441E0C-1713-4AB6-ADA3-20E24F827CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D441E0C-1713-4AB6-ADA3-20E24F827CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D441E0C-1713-4AB6-ADA3-20E24F827CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D441E0C-1713-4AB6-ADA3-20E24F827CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC95796-238A-42A6-B870-AF8BAF6FAA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B863BA02-A2CD-41DF-93A2-C4EAC009D815}
+	EndGlobalSection
+EndGlobal
